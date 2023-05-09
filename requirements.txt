@@ -1,0 +1,13 @@
+# Python dependencies required for development
+autopep8
+fastmri
+h5py
+matplotlib
+notebook
+numpy
+pandas
+scikit-image
+torch==1.13.1
+tqdm
+git+ssh://git@github.com/yangyanting233/pytorch-complex
+git+ssh://git@github.com/yangyanting233/vision-complex
