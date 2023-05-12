@@ -1,0 +1,52 @@
+cross training
+Epoch: 01 | Train Loss: 2.963 | Valid Loss: 0.3448696434497833
+Epoch: 02 | Train Loss: 2.508 | Valid Loss: 0.395714670419693
+Epoch: 03 | Train Loss: 2.349 | Valid Loss: 0.40909504890441895
+Epoch: 04 | Train Loss: 2.269 | Valid Loss: 0.4407634735107422
+Epoch: 05 | Train Loss: 2.169 | Valid Loss: 0.45215561985969543
+Epoch: 06 | Train Loss: 2.072 | Valid Loss: 0.481778085231781
+Epoch: 07 | Train Loss: 2.006 | Valid Loss: 0.48554712533950806
+Epoch: 08 | Train Loss: 1.932 | Valid Loss: 0.5149605870246887
+Epoch: 09 | Train Loss: 1.874 | Valid Loss: 0.5130533576011658
+Epoch: 10 | Train Loss: 1.818 | Valid Loss: 0.5255988240242004
+
+bert training
+Epoch: 01 | Train Loss: 1.954 | Valid Loss: 0.0040581501089036465
+Epoch: 02 | Train Loss: 1.956 | Valid Loss: 0.0040581501089036465
+Epoch: 03 | Train Loss: 1.953 | Valid Loss: 0.0040581501089036465
+Epoch: 04 | Train Loss: 1.956 | Valid Loss: 0.0040581501089036465
+Epoch: 05 | Train Loss: 1.956 | Valid Loss: 0.0040581501089036465
+Epoch: 06 | Train Loss: 1.959 | Valid Loss: 0.0040581501089036465
+Epoch: 07 | Train Loss: 1.956 | Valid Loss: 0.0040581501089036465
+Epoch: 08 | Train Loss: 1.956 | Valid Loss: 0.0040581501089036465
+Epoch: 09 | Train Loss: 1.959 | Valid Loss: 0.0040581501089036465
+Epoch: 10 | Train Loss: 1.954 | Valid Loss: 0.0040581501089036465
+
+
+Bleu training
+Epoch: 01 | Train Loss: 7.926 | Valid Loss: 0.006381235551089048
+Epoch: 02 | Train Loss: 7.925 | Valid Loss: 0.006381235551089048
+Epoch: 03 | Train Loss: 7.925 | Valid Loss: 0.006381235551089048
+Epoch: 04 | Train Loss: 7.925 | Valid Loss: 0.006381235551089048
+Epoch: 05 | Train Loss: 7.925 | Valid Loss: 0.006381235551089048
+Epoch: 06 | Train Loss: 7.925 | Valid Loss: 0.006381235551089048
+Epoch: 07 | Train Loss: 7.925 | Valid Loss: 0.006381235551089048
+Epoch: 08 | Train Loss: 7.925 | Valid Loss: 0.006381235551089048
+Epoch: 09 | Train Loss: 7.925 | Valid Loss: 0.006381235551089048
+Epoch: 10 | Train Loss: 7.925 | Valid Loss: 0.006381235551089048
+
+
+Bleu with transfer learning training
+Epoch: 01 | Train Loss: 1.346 | Valid Loss: 0.3448696434497833
+Epoch: 02 | Train Loss: 1.361 | Valid Loss: 0.3448696434497833
+Epoch: 03 | Train Loss: 1.357 | Valid Loss: 0.3448696434497833
+Epoch: 04 | Train Loss: 1.376 | Valid Loss: 0.3448696434497833
+Epoch: 05 | Train Loss: 1.355 | Valid Loss: 0.3448696434497833
+
+Bert with transfer learning training
+Epoch: 01 | Train Loss: 0.534 | Valid Loss: 0.3448696434497833
+Epoch: 02 | Train Loss: 0.534 | Valid Loss: 0.3448696434497833
+Epoch: 03 | Train Loss: 0.530 | Valid Loss: 0.3448696434497833
+Epoch: 04 | Train Loss: 0.537 | Valid Loss: 0.3448696434497833
+Epoch: 05 | Train Loss: 0.537 | Valid Loss: 0.3448696434497833
+Epoch: 06 | Train Loss: 0.537 | Valid Loss: 0.3448696434497833
